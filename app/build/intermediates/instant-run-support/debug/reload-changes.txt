@@ -1,0 +1,13 @@
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\nitdgplug\R$id$override.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$drawable$override.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$drawable$override.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\nitdgplug\R$style$override.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\nitdgplug\R$mipmap$override.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\nitdgplug\R$drawable$override.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\nitdgplug\R$override.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\nitdgplug\R$layout$override.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\nitdgplug\R$menu$override.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\nitdgplug\R$styleable$override.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\nitdgplug\R$string$override.class
+CHANGED,C:\my files\AndroidStudioProjects\nitdgplug\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\nitdgplug\R$integer$override.class

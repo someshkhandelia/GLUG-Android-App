@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ViewFlipper
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/myflipper">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/dim_foreground_disabled_material_light">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="The GNU/Linux Users' Group\nWelcomes You!"
+                android:id="@+id/textView2"
+                android:layout_alignParentTop="true"
+                android:textSize="20sp"
+                android:textColor="#ffffff"
+                android:layout_marginTop="80dp"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:id="@+id/HomeImage"
+                android:layout_below="@+id/textView2"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/tuxwelcome4" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/dim_foreground_disabled_material_light">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="'Open Source is a development methodology; free software is a social movement.'"
+                android:id="@+id/textView3"
+                android:layout_alignParentTop="true"
+                android:textSize="20sp"
+                android:textColor="#ffffff"
+                android:layout_marginTop="80dp"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:id="@+id/HomeImage2"
+                android:layout_below="@+id/textView3"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/tuxwelcome" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/dim_foreground_disabled_material_light">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="We believe that software should be free.We encourage the use of FOSS(Free and Open Source Software)"
+                android:id="@+id/textView4"
+                android:layout_alignParentTop="true"
+                android:textSize="20sp"
+                android:textColor="#ffffff"
+                android:layout_marginTop="80dp"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:id="@+id/HomeImage3"
+                android:layout_below="@+id/textView4"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/tuxwelcome2" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/dim_foreground_disabled_material_light">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Throughout the year we conduct various free workshops.\n'MUKTI' is our annual fest where we promote FOSS. "
+                android:id="@+id/textView5"
+                android:layout_alignParentTop="true"
+                android:textSize="20sp"
+                android:textColor="#ffffff"
+                android:layout_marginTop="80dp"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:id="@+id/HomeImage4"
+                android:layout_below="@+id/textView5"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/tuxwelcome3" />
+        </RelativeLayout>
+
+
+
+    </ViewFlipper>
+
+</RelativeLayout>

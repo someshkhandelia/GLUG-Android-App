@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.somesh1995.nitdgplug"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="24" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/tux"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.somesh1995.nitdgplug.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.somesh1995.nitdgplug.HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.somesh1995.nitdgplug.AndroidActivity"
+            android:label="@string/title_activity_android"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.somesh1995.nitdgplug.WebDevActivity"
+            android:label="@string/title_activity_web_dev"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.somesh1995.nitdgplug.HackmeActivity"
+            android:label="@string/title_activity_hackme"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.somesh1995.nitdgplug.MuktiActivity"
+            android:label="@string/title_activity_mukti"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.somesh1995.nitdgplug.FinalyearActivity"
+            android:label="@string/title_activity_finalyear"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.somesh1995.nitdgplug.ThirdyearActivity"
+            android:label="@string/title_activity_thirdyear"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.somesh1995.nitdgplug.SecondyearActivity"
+            android:label="@string/title_activity_secondyear"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\finalyear.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\finalyear.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\secondyear.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\secondyear.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_finalyear_drawer.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\activity_finalyear_drawer.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_hackme_drawer.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\activity_hackme_drawer.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_thirdyear_drawer.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\activity_thirdyear_drawer.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_android_drawer.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\activity_android_drawer.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\web_dev.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\web_dev.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_web_dev_drawer.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\activity_web_dev_drawer.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\android.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\android.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mukti.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\mukti.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_mukti_drawer.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\activity_mukti_drawer.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\hackme.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\hackme.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\thirdyear.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\thirdyear.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_secondyear_drawer.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\nitdgplug\\app\\src\\main\\res\\menu\\activity_secondyear_drawer.xml"
+    }
+]
